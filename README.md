@@ -4,12 +4,12 @@
 
 # 🤖 Welcome to **mertenesakarsu-ai** 🚀  
 
-
+========================================================================================================================================
 
 Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </br>
 This repo is my little **AI playground** where I share projects, ideas, and experiments.  </br>
 Feel free to explore, get inspired, and **fork ⭐** anything you like!  </br>
-
+-------------------------------
 ---
 
 ## 🎯 What’s the Goal?
@@ -30,7 +30,7 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!  </br>
 - 🛠️ Contribute by opening Pull Requests  
 - 🗨️ Share feedback & ideas in Issues  
 
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
+
 
 ---
 
@@ -38,4 +38,4 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!  </br>
 Who knows? 🤔  
 The next project you discover here might just spark your **next big idea**! 💥  
 
-![Rocket GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+
