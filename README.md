@@ -2,8 +2,11 @@
   <img src="https://res.cloudinary.com/db1ykrdfo/image/upload/v1758667455/dnm-removebg-preview_llwiry.png" width="500">
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Welcome+to+mertenesakarsu-ai+%F0%9F%9A%80;AI+Projects+%26+Ideas+%F0%9F%92%A1;Let's+Build+Cool+Stuff+Together!+%F0%9F%94%A5" alt="Typing SVG" style="color: white; background: linear-gradient(90deg, black, white, black);" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=800&color=FFFFFF&lines=Welcome+to+MertEnesAkarsu-Aİ+%F0%9F%9A%80;AI+Projects+%26+Ideas+%F0%9F%92%A1;Let's+Build+Cool+Stuff+Together+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
+
+
+
 
 
 
@@ -37,4 +40,4 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!
 
 ## 🚀 Let’s Build Cool Stuff!
 Who knows? 🤔  
-The next project you discover here might just spark your **next big idea**! 💥  
+The next project you discover here might just spark your **next big idea**! 💥   SON HALİ BU PEKİ BAŞKA NE ANİMASYONLAR YAPIP EKLEYE BİLİYORSUN  
