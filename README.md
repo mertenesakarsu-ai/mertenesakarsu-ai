@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://res.cloudinary.com/db1ykrdfo/image/upload/v1758667455/dnm-removebg-preview_llwiry.png" width="500">
 </p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF6EC7&center=true&vCenter=true&width=500&lines=🤖+Welcome+to+mertenesakarsu-ai+🚀;AI+Projects+%26+Ideas+💡;Let's+Build+Cool+Stuff+Together!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&center=true&vCenter=true&width=700&lines=🤖+Welcome+to+mertenesakarsu-ai+🚀;AI+Projects+%26+Ideas+💡;Let's+Build+Cool+Stuff+Together!+🔥" alt="Typing SVG" />
 </h1>
+
 
 </br>
 
