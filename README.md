@@ -40,4 +40,4 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!
 
 ## 🚀 Let’s Build Cool Stuff!
 Who knows? 🤔  
-The next project you discover here might just spark your **next big idea**! 💥   SON HALİ BU PEKİ BAŞKA NE ANİMASYONLAR YAPIP EKLEYE BİLİYORSUN  
+The next project you discover here might just spark your **next big idea**! 💥  
