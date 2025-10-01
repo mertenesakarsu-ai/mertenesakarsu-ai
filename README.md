@@ -45,3 +45,4 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!
 ## 🚀 Let’s Build Cool Stuff!
 Who knows? 🤔  
 The next project you discover here might just spark your **next big idea**! 💥  
+</br><p align="center"><img alt="PostaDepo Logo" src="https://github.com/user-attachments/assets/80b54475-23c7-406b-a265-8e34f990f09a" /></p>
