@@ -31,7 +31,7 @@ Feel free to explore, get inspired, and **fork ⭐** anything you like!
 
 ## 📌 Important Note
 👉 This is my **AI-focused account**.  
-👉 My main GitHub profile is here: [**@mertenesakarsu**](https://github.com/mertenesakarsu) 🏠  
+👉 My main GitHub profile is here: [**@mertenesakarsu**](https://github.com/mertenesakarsu) <img width="20" height="20" src="https://raw.githubusercontent.com/MertEnesAKARSU/MertEnesAKARSU/main/src/MEA.gif"/>  
 
 ---
 
