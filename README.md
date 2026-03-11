@@ -6,7 +6,7 @@
 <p align="left"><a href="http://www.instagram.com/by.mertenes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=800&color=FFFFFF&lines=Welcome+to+MertEnesAkarsu-Aİ+%F0%9F%9A%80;AI+Projects+%26+Ideas+%F0%9F%92%A1;Let's+Build+Cool+Stuff+Together+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=800&color=FFFFFF&lines=Welcome+to+MertEnesAkarsu-AI+%F0%9F%9A%80;AI+Projects+%26+Ideas+%F0%9F%92%A1;Let's+Build+Cool+Stuff+Together+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 
